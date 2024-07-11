@@ -1,2 +1,2 @@
 # Novanector
-Elemantory task 
+Machine Learning intern - Elemantory task 2
